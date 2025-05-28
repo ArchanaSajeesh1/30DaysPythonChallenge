@@ -6,11 +6,13 @@
 
 – Learned basic syntax and ran my first script
 
+
 🎯 Task:
 
 Wrote a simple program to print:
 
 Hello, World! followed by my name 😊
+
 
 
 🛠️ Tools Used
