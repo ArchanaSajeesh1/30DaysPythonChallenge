@@ -1,12 +1,19 @@
-##DAY 1##
-#Key Learning:#
+#DAY 1
+
+##Key Learning:
+
 :white_check_mark: Variables are reuseable container that can store data that can hold any values such as numeric,text etc
 
 
 :white_check_mark:Naming Convention for Variables:
+
+
 :heavy_check_mark:Cannot use reserve words (e.g., def, True, False )
+
 :heavy_check_mark:Must start with letter(A-Z/a-z) or underscore(_)
+
 :heavy_check_mark:Cannot contain spaces or special characters(@,#,$, % etc) 
+
 :heavy_check_mark:Inbetween variables names there can be numbers or underscore
 
 
