@@ -24,6 +24,8 @@
 
 :heavy_check_mark:Boolean(Binary Values- True/False)
 
+
+
 ### Three ways to print output:
 
 age = 21
@@ -31,7 +33,6 @@ age = 21
 print(age)
 
 print("I am " + str(age) + " years old") -- using + symbol for which need to convert number to string which is called type convertion to concatenate all 3 text 
-
 into single string
 
 print("I am",age,"years old") --using ,
@@ -41,6 +42,8 @@ print(f"I am {age} years old")--using f-string
 ### Result:
 
 I am 21 years old
+
+
 
 ### Integer
 
@@ -66,6 +69,8 @@ There are 2 online
 
 you would like to buy 5 items
 
+
+
 ### float
 
 ### Input:
@@ -90,6 +95,8 @@ you ran 2.5 km
 
 The price is $10.99
 
+
+
 ### String
 
 ### Input:
@@ -113,6 +120,8 @@ My name is Archana
 I love Dosa
 
 my email id is arc@123.com
+
+
 
 ### Boolean
 
